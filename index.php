@@ -1,7 +1,7 @@
 <?php
 
 include_once 'app/autoload.php';
-var_dump($_SERVER);
+echo '<pre>' , var_dump($_SERVER) , '</pre>';
 $route = new route();
 $route->get($mainRoute);
 
