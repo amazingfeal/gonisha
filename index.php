@@ -1,7 +1,13 @@
 <?php
 
 include_once 'app/autoload.php';
-var_dump($_SERVER);
+
+$mainRoute = [
+
+    '/'                          , 'Controller@index',
+    
+];
+
 $route = new route();
 $route->get($mainRoute);
 
