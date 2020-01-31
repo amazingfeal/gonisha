@@ -2,11 +2,11 @@
 
 class Common {
 
-    public static function url() {
+    public static function URL()
+    {
 
         $adress = $_SERVER['REQUEST_URI'];
 
     }
 
 }
-
