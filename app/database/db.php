@@ -19,4 +19,9 @@ class DataBase {
         }
     }
 
+    function insert($sql) {
+        $id = $this->connection->query($sql);
+        return $id;
+    }
+
 }

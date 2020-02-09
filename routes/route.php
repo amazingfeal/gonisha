@@ -12,7 +12,7 @@ class route
 
     public function get($mainRoute) {
 
-        $url = common::url();
+        $url = url();
 
         for($i = 0 ; $i <= sizeof($mainRoute) - 1; $i += 2) {
 

@@ -6,5 +6,6 @@ $config[db][user] = 'root';
 $config[db][pass] = '';
 $config[db][pass] = 'gonisha';
 
+$config['base'] = '';
 
 ?>
