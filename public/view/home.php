@@ -5,7 +5,7 @@
   <title>Bootstrap Example</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="public/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="<?=baseUrl()?>public/assets/css/bootstrap.min.css">
   <script src="public/assets/js/jquery-3.4.1.min.js"></script>
   <script src="public/assets/js/bootstrap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
