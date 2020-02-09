@@ -1,6 +1,6 @@
 <?php
 
-class Common {
+class common {
 
     public static function url()
     {
@@ -12,3 +12,4 @@ class Common {
     }
 
 }
+
