@@ -9,6 +9,7 @@
   <script src="public/assets/js/jquery-3.4.1.min.js"></script>
   <script src="public/assets/js/bootstrap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
 </head>
 <body>
 
